@@ -1,4 +1,4 @@
 # newyesor.github.io
 
-#hello /n
-##Good Bye /n
+#hello </br>
+##Good Bye </br>
